@@ -1,0 +1,5 @@
+x = float(input("Entrez votre prémier nombre : "))
+y = float(input("Entrez votre deuxième nombre : "))
+z = float(input("Entre votre trosième nombre : "))
+maximum = max(x,y,z)
+print(f"le maximum entre {x}, {y} et {z} est : {maximum}")
